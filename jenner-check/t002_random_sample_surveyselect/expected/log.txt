@@ -1,0 +1,23 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA dev_data
+
+
+NOTE: Wrote dev_data (60 rows, 21 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA analytical_file
+
+
+NOTE: Read 60 rows from dev_data.
+NOTE: Wrote analytical_file (60 rows, 20 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to Random 10 Sample Of Analytical File.
+NOTE: PROC SURVEYSELECT data=analytical_file
+
+NOTE: PROC SURVEYSELECT completed.
+NOTE: PROC PRINT data=random_sample
+
+NOTE: PROC PRINT completed: 10 observations printed, 21 variables

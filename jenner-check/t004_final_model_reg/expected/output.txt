@@ -1,0 +1,36 @@
+                                       6b. Run final model in multiple regression
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                              Dependent Variable: depvar7                                               
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                  15      3895.38185    259.69212      1.35    0.2147
+Error                  44      8460.26725    192.27880                    
+Corrected Total        59     12355.64910                                 
+
+Root MSE          13.86646    R-Square            0.3153
+Dependent Mean      98.86017    Adj R-Sq            0.0818
+Coeff Var         14.02634
+
+                       Parameter Estimates                        
+
+Variable          DF  Estimate  Standard Error   t Value  Pr > |t|
+----------  --------  --------  --------------  --------  --------
+Intercept          1  97.65228        16.21991      6.02    <.0001
+HSRE011            1  -0.02400         0.01453     -1.65    0.1057
+HSTA001S           1   0.02536         0.02531      1.00    0.3219
+HSRE040            1  -0.04785         0.01905     -2.51    0.0158
+HSED005            1  -0.01033         0.07662     -0.13    0.8934
+HSHC007            1   0.07223         0.03687      1.96    0.0565
+HSSH037A           1   0.02373         0.04851      0.49    0.6271
+HSRO002            1  -0.01585         0.02877     -0.55    0.5846
+HSRE052            1  -0.04163         0.02431     -1.71    0.0939
+HSRE042            1  -0.01186         0.02029     -0.58    0.5620
+ECYMARSING         1   0.15108         0.09524      1.59    0.1198
+HSTA002B           1   0.03174         0.05765      0.55    0.5847
+HSHC003            1  -0.11314         0.08190     -1.38    0.1741
+HSRM014            1   0.06524         0.05608      1.16    0.2509
+HSTA005            1   0.02433         0.06345      0.38    0.7032
+SV00058            1   0.09877         0.10889      0.91    0.3693

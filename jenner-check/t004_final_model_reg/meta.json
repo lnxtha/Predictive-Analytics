@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_final_model_reg",
+  "source_file": "Analysis (2).sas",
+  "source_blob_sha": "f9ff82b750862ef184c17621efcdcfc5e3fce86e",
+  "source_commit": "938529d1e48a697701153cdc8e3749374f416f90",
+  "notes": "6b Final model: PROC REG of the author's 15-variable final model (outest=regout1). Plain (unlabeled) MODEL statement; data source substituted with mock dev_data."
+}

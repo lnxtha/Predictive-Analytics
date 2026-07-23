@@ -1,0 +1,30 @@
+                                             Basic Stats of Target Variable
+
+                                                  The MEANS Procedure
+
+ Variable        N   N Miss           Mean         Median        Mode        Std Dev        Minimum         Maximum
+ ------------------------------------------------------------------------------------------------------------------
+ DEPVAR7        60        0     98.8601667     96.4150000           .     14.4712744     67.1500000     135.2500000
+ ------------------------------------------------------------------------------------------------------------------
+
+
+DEPVAR7=Spent [Pst Mth] - Cannabis - Consumption ($/mth) Per Person Aged 19+
+                                         Basic Stats of 5 Independent Variables
+
+                                                  The MEANS Procedure
+
+ Variable          N   N Miss            Mean          Median           Mode         Std Dev        Minimum         Maximum
+ --------------------------------------------------------------------------------------------------------------------------
+ ECYEDUUD         60        0      19.2238333      18.8900000     34.6300000      11.3403193      0.6100000      38.4300000
+ ECYPOWNFIX       60        0       5.2761667       5.2600000      1.4500000       2.9539638      0.1200000       9.9700000
+ HSTA001S         60        0     156.7230000     146.5200000              .      84.3491170      0.9100000     292.7800000
+ HSRE001          60        0     236.8170000     243.2250000              .     128.0583195     14.9000000     444.4300000
+ HSHC001          60        0      84.6946667      80.4400000              .      52.5191272      9.1600000     178.8800000
+ --------------------------------------------------------------------------------------------------------------------------
+
+
+1. ECYEDUUD=University Degree 
+2.ECYPOWNFIX=No Fixed Workplace Address
+3.HSTA001S=Spent on - Tobacco products and alcoholic beverages
+4.HSRE001=Spent on - Recreation
+5.HSHC001=Spent on - Health care

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_basic_stats_means",
+  "source_file": "Analysis (2).sas",
+  "source_blob_sha": "f9ff82b750862ef184c17621efcdcfc5e3fce86e",
+  "source_commit": "938529d1e48a697701153cdc8e3749374f416f90",
+  "notes": "2a Basic Stats: PROC MEANS on target DEPVAR7 and 5 independent vars, author's titles/footnotes verbatim; external ban210dev1.csv import replaced by seeded mock dev_data."
+}
