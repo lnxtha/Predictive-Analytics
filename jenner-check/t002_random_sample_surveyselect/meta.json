@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_random_sample_surveyselect",
+  "source_file": "Analysis (2).sas",
+  "source_blob_sha": "f9ff82b750862ef184c17621efcdcfc5e3fce86e",
+  "source_commit": "938529d1e48a697701153cdc8e3749374f416f90",
+  "notes": "3 Random sample: PROC SURVEYSELECT method=srs n=10 on analytical_file; drop-list trimmed to columns present in mock dev_data."
+}

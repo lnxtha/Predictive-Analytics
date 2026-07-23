@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_decision_tree_hpsplit",
+  "source_file": "Analysis (2).sas",
+  "source_blob_sha": "f9ff82b750862ef184c17621efcdcfc5e3fce86e",
+  "source_commit": "938529d1e48a697701153cdc8e3749374f416f90",
+  "notes": "HPSPLIT decision tree (maxdepth=5 maxbranch=3, seeded validation partition) \u2014 the README's headline model; variable-importance values are engine-nondeterministic so only stable status/log NOTEs are pinned; data source substituted with mock dev_data."
+}

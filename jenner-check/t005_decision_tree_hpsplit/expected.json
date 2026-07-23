@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-23T14:04:43.986684+00:00",
+  "_captured_run_id": "r_6432b506ff494fda95165fa0862a3fd5",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC HPSPLIT",
+    "NOTE: PROC HPSPLIT completed."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

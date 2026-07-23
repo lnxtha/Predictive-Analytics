@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-23T14:04:43.986684+00:00",
+  "_captured_run_id": "r_6955bebd22ec4c7d9d40889e091e18d9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC CORR",
+    "NOTE: Wrote analytical_file"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

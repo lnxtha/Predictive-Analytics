@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-23T14:04:43.986684+00:00",
+  "_captured_run_id": "r_3c865b84f1e84a98bdde5d3e576906e9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC REG",
+    "NOTE: OUTEST dataset regout1 written"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
